@@ -1,0 +1,8 @@
+llama-index
+qdrant-client
+llama-index-embeddings-huggingface
+einops
+hf_xet
+mcp[cli]
+httpx
+dotenv
